@@ -1,6 +1,6 @@
-# Leak Check Bot
+# Leak Reporter
 
-Leak Check Bot is a Python script that checks a list of emails against the **Leak Lookup API** and generates a professional email report with the results. 
+Leak Reporter is a Python script that checks a list of emails against the **Leak Lookup API** and generates a professional email report with the results. 
 
 ---
 
